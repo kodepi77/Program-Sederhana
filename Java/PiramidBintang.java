@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Main {
+class PiramidBintang {
   public static void main(String[] args) {
 		Scanner scn = new Scanner(System.in);
 		int tinggi;
